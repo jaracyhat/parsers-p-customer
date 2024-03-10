@@ -1,6 +1,6 @@
 {
   "name": "parsers-p-customer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dependency manifest parsers for Libraries.io",
   "main": "lib/parsers/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jaracyhat/parsers-p-customer.git"
+    "url": "https://github.com/jaracyhat/parsers-p-customer.git"
   },
   "keywords": [
     "dependency",
@@ -16,9 +16,9 @@
     "parsers",
     "libraries.io"
   ],
-  "author": "Andrew Nesbitt",
+  "author": "jaracyhat",
   "license": "AGPL-3.0",
-  "homepage": "git@github.com:jaracyhat/parsers-p-customer.git",
+  "homepage": "https://github.com/jaracyhat/parsers-p-customer.git",
   "dependencies": {
     "bluebird": "^3.3.4",
     "gradle-to-js": "^0.2.5",
