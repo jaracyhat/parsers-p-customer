@@ -1,0 +1,5 @@
+platforms:
+  NuGet:
+    tests:
+      unlicensed: skip
+      removed: skip

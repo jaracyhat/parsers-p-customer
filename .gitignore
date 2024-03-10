@@ -1,0 +1,5 @@
+*.swp
+node_modules
+.env
+npm-debug.log
+/yarn.lock
